@@ -1,0 +1,4 @@
+streamlit
+COHERE_API_KEY
+pdfplumber
+python-dotenv
